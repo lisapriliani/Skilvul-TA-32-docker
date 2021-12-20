@@ -20,5 +20,5 @@
 3. docker file adalah skrip yang berisi serangkaian perintah, intruksi (argumen) yang akan dieksekusi secara otomatisasi dan berurutan untuk membangun sebuah image</br>
 4. Tempat untuk upload/download image
 <br>
-5.
+5. Dengan menggunakan compose, docker compose memungkinkan untuk menjalankan lingkungan aplikasi multikontainer berdasarkan file YAML.
 </br>
